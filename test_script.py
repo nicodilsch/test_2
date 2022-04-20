@@ -3,4 +3,4 @@ print('Jetzt mal ziehen')
 print('Magie')
 #command
 #command for change
-
+#command for change (pull)
